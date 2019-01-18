@@ -2,7 +2,7 @@
 sum = 0
 for number in range (1,1000):
     if (number % 3 == 0):
-        sum = sum + i
+        sum = sum + number
     elif (number % 5 == 0):
-        sum = sum + i
+        sum = sum + number
 print(sum)
