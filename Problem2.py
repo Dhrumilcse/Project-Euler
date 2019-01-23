@@ -1,4 +1,4 @@
-#Sum of Even Fibonacci Numbers Unitil the number Exceeds 4 million
+#Sum of Even Fibonacci Numbers (Unitil the number Exceeds 4 million)
 
 #Recursive function to find Fibonacci of the number
 def fib(n):
